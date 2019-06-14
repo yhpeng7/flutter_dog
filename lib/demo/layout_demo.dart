@@ -103,4 +103,5 @@ class IconBadge extends StatelessWidget {
       color: Color.fromRGBO(3, 54, 255, 1.0),
     );
   }
+
 }
