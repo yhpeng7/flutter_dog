@@ -7,6 +7,7 @@ class SliverDemo extends StatelessWidget {
     return Scaffold(
       body: CustomScrollView(
         slivers: <Widget>[
+
           SliverAppBar(
 //            pinned: true,
 //            floating: true,
